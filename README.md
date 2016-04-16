@@ -18,10 +18,11 @@ To delete a contact, you have to select a contact then confirm the delete.
 
 ## Graphical User Interface (GUI)
 
-PyPhoneBook with Windows Interface
+PyPhoneBook with Windows:
 
 ![tag image] (https://github.com/alphaground123/testPython/blob/master/images/pyphonebook.PNG)
 
-PyPhoneBook with Linux Interface
+
+PyPhoneBook with Linux:
 
 ![tag image] (https://github.com/alphaground123/testPython/blob/master/images/pyphonebook_linux.PNG)
