@@ -15,3 +15,5 @@ Run the script pyphonebook.py.
 To add a contact, you click on the button "Add contact" and you have to indicate at last a firstname or lastname.
 To update a contact, you have to select a contact then click on the button "Update contact".
 To delete a contact, you have to select a contact then confirm the delete.
+
+![tag image] (https://github.com/alphaground123/testPython/blob/master/images/pyphonebook.PNG)
