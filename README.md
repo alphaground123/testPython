@@ -16,4 +16,12 @@ To add a contact, you click on the button "Add contact" and you have to indicate
 To update a contact, you have to select a contact then click on the button "Update contact".
 To delete a contact, you have to select a contact then confirm the delete.
 
+## Graphical User Interface (GUI)
+
+PyPhoneBook with Windows Interface
+
 ![tag image] (https://github.com/alphaground123/testPython/blob/master/images/pyphonebook.PNG)
+
+PyPhoneBook with Linux Interface
+
+![tag image] (https://github.com/alphaground123/testPython/blob/master/images/pyphonebook_linux.PNG)
