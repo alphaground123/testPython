@@ -1,5 +1,8 @@
+#PyPhoneBook
+
 ## About
-PyPhoneBook is a phonebook developed in python with Tkinter. The goal of this application is to save contacts. It is useful if you lose your mobilephone.
+PyPhoneBook is an application phonebook developed in python with Tkinter. The goal of this application is to save contacts. It is useful if you lose your mobilephone.
+
 
 ## Supported platforms
 - Windows
